@@ -1,0 +1,9 @@
+Financial Analysis:
+
+-------------------
+
+The total number of months in this dataset is 86
+The net profits come out to $38382578
+The average change in profits is $7803.476744186047
+The largest profit is $ 1926159 and it occurred on Feb-2012
+The largest loss is $-2196167 and it occurred on Sep-2013
